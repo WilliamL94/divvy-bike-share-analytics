@@ -182,7 +182,7 @@ These recommendations are hypotheses informed by descriptive trip data; they req
 
 Full Case Study
 
-Read the Divvy Bike Share Capstone Case Study (PDF)
+[View My Complete Case Study (PDF)](Case_Study/Divvy_Bike_Share_Capstone_Case_Study.pdf)
 
 The case study documents the analytical process, findings, visualizations, and proposed business recommendations.
 
