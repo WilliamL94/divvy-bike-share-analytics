@@ -26,7 +26,7 @@ Git and GitHub
 
 Interactive Tableau Dashboard
 
-View the Interactive Divvy Bike Share Dashboard
+[View My Interactive Tableau Dashboard](https://public.tableau.com/views/Divvy_Bike_Share_Capstone_v1/DivvyBikeShareMembervsCasualAnalysis)
 
 The dashboard includes six visualizations:
 
