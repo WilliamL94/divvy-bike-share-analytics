@@ -119,6 +119,7 @@ Generating aggregated datasets for Tableau visualization
 The cleaned SQL view contained 35,686,178 records, while the selected 2023–2025 analysis period contained 17,131,207 rides.
 
 SQL Analysis
+[View All 10 Oracle SQL Scripts](SQL/)
 
 All SQL scripts are available in the SQL folder.
 
